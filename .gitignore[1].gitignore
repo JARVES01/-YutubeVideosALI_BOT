@@ -1,0 +1,29 @@
+
+# Python build and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual env
+.env
+venv/
+ENV/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs & temp
+*.log
+*.tmp
+*.bak
+
+# Media downloads (prevent large files in repo)
+*.mp4
+*.mp3
+*.webm
+*.mkv
